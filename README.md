@@ -8,3 +8,10 @@ recipe page:
 - after ingredients add the steps heading followed by an ordered list
 
 After this recipe is done add 2 more recipes.
+
+
+- lasagna : https://www.allrecipes.com/recipe/11786/hearty-vegetable-lasagna/
+
+- tomato soup: https://www.allrecipes.com/recipe/39544/garden-fresh-tomato-soup/
+
+- katsu curry: https://www.allrecipes.com/recipe/72068/chicken-katsu/ 
