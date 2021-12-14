@@ -1,17 +1,31 @@
 # odin-recipes
 
-recipe page:
+# TODO:
 
-- add image of dish under the h1 tag
-- under image appropriately sixzed description of the dish
-- then a ingredients heading followed by an unordered list of the ingredients
-- after ingredients add the steps heading followed by an ordered list
-
-After this recipe is done add 2 more recipes.
+add more CSS to the page 
 
 
-- lasagna : https://www.allrecipes.com/recipe/11786/hearty-vegetable-lasagna/
+# General Styling:
 
-- tomato soup: https://www.allrecipes.com/recipe/39544/garden-fresh-tomato-soup/
+Headings:
+    30px
+    white
+    font = courier New
+    left
 
-- katsu curry: https://www.allrecipes.com/recipe/72068/chicken-katsu/ 
+descriptions:
+    20px
+    grey
+    font = courier new
+    text - centered
+
+images : 
+    300 x 300 px    
+    border: grey
+
+ingredients:
+    follow genereal text styling
+
+directions:
+    Step = 28px
+    text = 20px
